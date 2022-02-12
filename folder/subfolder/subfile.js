@@ -1,1 +1,1 @@
-console.log("goodbye world")
+import Thing from "../file"
